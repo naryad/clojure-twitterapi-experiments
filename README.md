@@ -4,10 +4,12 @@ A Clojure library designed to get data from twitter using twitter API.
 
 ## Usage
 
-FIXME
+1. Insert your app's conser key/secret and accesst token/secret.
+2. Run "lein uberjar" and this will generate the standalone jar in target directory.
+3. java -jar jar-file-name "query"
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 
 
 Distributed under the Eclipse Public License, the same as Clojure.
