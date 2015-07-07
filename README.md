@@ -4,7 +4,7 @@ A Clojure library designed to get data from twitter using twitter API.
 
 ## Usage
 
-1. Insert your app's conser key/secret and accesst token/secret.
+1. Insert your app's consumer key/secret and access token/secret.
 2. Run "lein uberjar" and this will generate the standalone jar in target directory.
 3. java -jar jar-file-name "query"
 
